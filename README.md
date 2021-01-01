@@ -1,7 +1,7 @@
 <!-- Aggu The Little Wizard-->
 <p align="center">
   <a href="https://www.agguthelittlewizard.com">
-    <img alt="Aggu" src="" width="60" />
+    <img alt="Aggu" src="https://agguthelittlewizard.com/static/c180fa028139942505669af11c4c4f4a/25a65/aggu-logo.webp" width="60" />
   </a>
 </p>
 <h1 align="center">
