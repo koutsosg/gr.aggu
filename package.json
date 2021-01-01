@@ -1,0 +1,69 @@
+{
+  "name": "aggu-the-wizard",
+  "private": true,
+  "description": "A website build with markdown",
+  "version": "0.1.0",
+  "author": "George Koutsos",
+  "bugs": {
+    "url": "https://agguthelittlewizard.com"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "babel-plugin-styled-components": "^1.12.0",
+    "bootstrap": "^4.5.3",
+    "gatsby": "^2.25.3",
+    "gatsby-background-image": "^1.3.1",
+    "gatsby-image": "^2.6.0",
+    "gatsby-plugin-feed": "^2.6.0",
+    "gatsby-plugin-fontawesome-css": "^1.0.0",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-manifest": "^2.5.2",
+    "gatsby-plugin-offline": "^3.3.3",
+    "gatsby-plugin-react-helmet": "^3.3.14",
+    "gatsby-plugin-robots-txt": "^1.5.5",
+    "gatsby-plugin-sharp": "^2.9.0",
+    "gatsby-plugin-sitemap": "^2.9.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "gatsby-plugin-styled-components": "^3.6.0",
+    "gatsby-remark-copy-linked-files": "^2.3.19",
+    "gatsby-remark-images": "^3.4.2",
+    "gatsby-remark-prismjs": "^3.6.0",
+    "gatsby-remark-responsive-iframe": "^2.4.17",
+    "gatsby-remark-smartypants": "^2.3.13",
+    "gatsby-source-filesystem": "^2.4.2",
+    "gatsby-transformer-remark": "^2.9.2",
+    "gatsby-transformer-sharp": "^2.7.0",
+    "prismjs": "^1.22.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^5.2.1",
+    "typeface-merriweather": "0.0.72",
+    "typeface-montserrat": "0.0.75"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "homepage": "https://agguthelittlewizard.com",
+  "keywords": [
+    "nursery Rhimes"
+  ],
+  "license": "0BSD",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koutsosg/agguthelittlewizard.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  }
+}

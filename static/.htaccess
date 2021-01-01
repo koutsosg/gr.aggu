@@ -1,0 +1,4 @@
+
+ErrorDocument 403 "Forbidden. Directory listing has been disabled."
+ErrorDocument 404 /404/index.html
+ErrorDocument 500 "<b>Internal Server Error</b><br><p>The server encountered an internal error or misconfiguration and was unable to complete your request.<br><br>First check If there is an / on the end of your URL or else<br><br>Please contact the server administrator at <b>info@agguthelittlewizard.com</b><br><br> to inform them of the time this error occurred, and the actions you performed just before this error.</p>"
